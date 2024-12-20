@@ -22,12 +22,10 @@
    - The TheaterModule is responsible for managing theaters in the Movie Ticket Booking Management System. It provides endpoints for creating, retrieving, updating, and deleting theaters. Admin users have the ability to modify theater information, while regular users can view theater details.
 
    ***Attributes:***
-   - ***id:*** A unique identifier for the movie.
-   - ***name:*** The title of the movie.
-   - ***description:*** A brief description of the movie’s plot or storyline.
-   - ***genre:*** The genre of the movie (e.g., Action, Comedy, Drama, etc.).
-   - ***duration:*** The total duration of the movie in minutes.
-   - ***releaseDate:*** The release date of the movie.
+   - ***id:*** A unique identifier for the Theater.
+   - ***name:*** The name of the Theater.
+   - ***location:*** Physical location of the theater.
+
   
   
 
