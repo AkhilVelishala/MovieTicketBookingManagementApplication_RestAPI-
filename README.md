@@ -96,7 +96,7 @@
    [![Screenshot-2024-12-20-221849.png](https://i.postimg.cc/SRy1Jy5J/Screenshot-2024-12-20-221849.png)](https://postimg.cc/9RnYkjch)
 
    #
-   ### **SeatModule**
+   ### **TicketModule**
    - The TicketModule manages ticket booking, retrieval, and cancellation operations within the Movie Ticket Booking Management System. It enables users to book tickets for a movie, retrieve their ticket details, and cancel bookings. Admins can access a complete booking history for system oversight.
 
         ***Attributes:***
@@ -122,12 +122,14 @@
        ***Endpoints:***
      
      [![Screenshot-2024-12-20-223539.png](https://i.postimg.cc/s2tNRMWr/Screenshot-2024-12-20-223539.png)](https://postimg.cc/1grHG5MC)
+     
 
-        ***Endpoint:*** (http://localhost:2020/Ticket/get?id=11)
+     ***Endpoint:*** (http://localhost:2020/Ticket/get?id=11)
          
          [![Screenshot-2024-12-19-122551.png](https://i.postimg.cc/13qKxsGx/Screenshot-2024-12-19-122551.png)](https://postimg.cc/cvd3wqkT)
 
-        ***Endpoint:*** (http://localhost:2020/Ticket/getAll)
+     ***Endpoint:*** (http://localhost:2020/Ticket/getAll)
+     
     
          [![Screenshot-2024-12-19-122724.png](https://i.postimg.cc/vZh22QbQ/Screenshot-2024-12-19-122724.png)](https://postimg.cc/PCLMPnCc)
 
