@@ -43,4 +43,6 @@
    - ***releaseDate:*** The release date of the movie.
    - ***rating:*** The movie’s average rating (e.g., from 1 to 10, or as a rating system).
 
+     [![Screenshot-2024-12-19-122232.png](https://i.postimg.cc/2jxSVzVY/Screenshot-2024-12-19-122232.png)](https://postimg.cc/6TyXPxrb)
+
 
