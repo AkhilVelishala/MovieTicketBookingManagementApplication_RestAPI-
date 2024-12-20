@@ -45,4 +45,19 @@
 
    [![Screenshot-2024-12-19-122254.png](https://i.postimg.cc/qM8SkRRc/Screenshot-2024-12-19-122254.png)](https://postimg.cc/nCh02nqM)
 
+   #
+   ### **MovieModule**
+   - The MovieModule is a vital component of the Movie Ticket Booking Management System that handles all operations related to movies. This module provides functionality for adding, retrieving, updating, and deleting movies from the system. It allows admins to manage movie data, while users can view a list of available movies and access detailed information about each movie.
+     
+   ***Attributes:***
+
+   - ***id:*** A unique identifier for the movie.
+   - ***name:*** The title of the movie.
+   - ***description:*** A brief description of the movie’s plot or storyline.
+   - ***genre:*** The genre of the movie (e.g., Action, Comedy, Drama, etc.).
+   - ***duration:*** The total duration of the movie in minutes.
+   - ***releaseDate:*** The release date of the movie.
+   - ***rating:*** The movie’s average rating (e.g., from 1 to 10, or as a rating system).
+   
+
 
