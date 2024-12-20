@@ -175,29 +175,6 @@
    - ***Lombok:*** Reduces boilerplate code in Java.
    - ***JDBC Authentication:***  Implements authentication using credentials stored in the database.
 
-     ## Setup Instructions
-      ### **To set up and run the MovieTicketBookingSystem locally, follow these steps:**
-     
-     **1. Clone the Repository**:  git clone https://github.com/yourusername/MovieTicketBookingManagementApplication_RestAPI-.git
-     - **Java 11 or higher:** Required for building and running the Spring Boot backend.
-     - **Maven:** For project dependency management and building the backend application.
-     - **MySQL:** Database system used for storing the data (or any other relational database).
-     - ***Configure Database Connection:***  Open the application.properties file located in src/main/resources and update
-        the database credentials if necessary:
-    
-       
-       [![Screenshot-2024-12-20-234322.png](https://i.postimg.cc/RCHXjZh4/Screenshot-2024-12-20-234322.png)](https://postimg.cc/z3qCh5Tc)
-
-       
-     - **Run the Application:** Run The Application From Main Method.
-       *This will start the backend on http://localhost:8080(default port No).*
-       
-     - **Accessing the API:**
-       *Postman or Swagger:* You can use Postman or CURL to make API requests for the available endpoints.
-
-       Thank you!
-       Developed by: Velishala Akhil (MovieTicketBookingManagementApplication_RestAPI)
-
-  
+   
      
 
