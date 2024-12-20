@@ -35,7 +35,9 @@
    - ***name:*** The name of the Theater.
    - ***location:*** Physical location of the theater.
 
-  
+     [![Screenshot-2024-12-20-184044.png](https://i.postimg.cc/d39D8CvR/Screenshot-2024-12-20-184044.png)](https://postimg.cc/GTHcRH49)
+
+  #
 
   [![Screenshot-2024-12-19-122215.png](https://i.postimg.cc/s2bs57mb/Screenshot-2024-12-19-122215.png)](https://postimg.cc/jW6pbWGh)
   
