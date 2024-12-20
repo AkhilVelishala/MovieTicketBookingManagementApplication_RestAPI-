@@ -1,13 +1,13 @@
  # MovieTicketBookingManagementApplication_RestAPI
   The MovieTicketBookingSystem is a demo project developed to simulate a real-time movie ticket booking experience. This system provides users with the ability to 
   browse movie listings, view available theaters, select seats, and make bookings
-#
+
   ##  Tired of:
 - **Spending hours** searching for relevant content across multiple platforms?
 - **Struggling to find** detailed and accurate information about movies, theaters, or ticket bookings?
 -  **Dealing with disorganized** booking systems and inconsistent user experiences?
 
-#
+
 ##  Modules
 - UserModule
 - TheaterModule
@@ -174,6 +174,10 @@
    - ***Swagger:*** API documentation and testing.
    - ***Lombok:*** Reduces boilerplate code in Java.
    - ***JDBC Authentication:***  Implements authentication using credentials stored in the database.
+
+     ## Setup Instructions
+      **To set up and run the MovieTicketBookingSystem locally, follow these steps:**
+     1.clone the repository : git clone https://github.com/yourusername/MovieTicketBookingManagementApplication_RestAPI-.git
 
   
      
