@@ -1,6 +1,7 @@
- # MovieTicketBookingManagementApplication_RestAPI
+ ## MovieTicketBookingManagementApplication_RestAPI
   The MovieTicketBookingSystem is a demo project developed to simulate a real-time movie ticket booking experience. This system provides users with the ability to 
   browse movie listings, view available theaters, select seats, and make bookings
+  
 #
 ##  Modules
 - UserModule
