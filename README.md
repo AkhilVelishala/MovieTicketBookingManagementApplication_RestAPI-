@@ -178,7 +178,12 @@
      ## Setup Instructions
       ### **To set up and run the MovieTicketBookingSystem locally, follow these steps:**
      
-     **1. Clone the Repository**:  *git clone https://github.com/yourusername/MovieTicketBookingManagementApplication_RestAPI-.git
+     **1. Clone the Repository**:  git clone https://github.com/yourusername/MovieTicketBookingManagementApplication_RestAPI-.git
+     - **Java 11 or higher:** Required for building and running the Spring Boot backend.
+     - **Maven:** For project dependency management and building the backend application.
+     - **MySQL:** Database system used for storing the data (or any other relational database).
+     - ***Configure Database Connection:***  Open the application.properties file located in src/main/resources and update the database credentials if necessary:
+       [![Screenshot-2024-12-20-234322.png](https://i.postimg.cc/RCHXjZh4/Screenshot-2024-12-20-234322.png)](https://postimg.cc/z3qCh5Tc)
 
   
      
