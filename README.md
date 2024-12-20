@@ -176,15 +176,9 @@
    - ***JDBC Authentication:***  Implements authentication using credentials stored in the database.
 
      ## Setup Instructions
-### Correct Formatting:
-```markdown
-   ####  **1. Clone the Repository**:
-```bash
-git clone https://github.com/yourusername/MovieTicketBookingManagementApplication_RestAPI-.git
-
       ### **To set up and run the MovieTicketBookingSystem locally, follow these steps:**
      
-     #### **1. Clone the Repository**: git clone https://github.com/yourusername/MovieTicketBookingManagementApplication_RestAPI-.git
+     **1. Clone the Repository**:  *git clone https://github.com/yourusername/MovieTicketBookingManagementApplication_RestAPI-.git
 
   
      
