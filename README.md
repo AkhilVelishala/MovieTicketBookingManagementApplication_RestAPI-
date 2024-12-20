@@ -15,4 +15,6 @@
  -  *Admin:* A user with elevated privileges who can manage users, view logs, and perform administrative tasks.
  -  *User:* A regular user who can access their profile, make bookings, etc.
 
+   ***Endpoints:***
+
 
