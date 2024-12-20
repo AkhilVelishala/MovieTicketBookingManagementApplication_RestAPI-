@@ -26,6 +26,10 @@
    - ***id:*** Unique identifier for the theater.
    - ***name:*** Name of the theater.
    - ***location:*** Physical location of the theater.
+
+     [![Screenshot-2024-12-19-122215.png](https://i.postimg.cc/s2bs57mb/Screenshot-2024-12-19-122215.png)](https://postimg.cc/jW6pbWGh)
+
+     #
    
 
 
