@@ -187,11 +187,13 @@
     
        
        [![Screenshot-2024-12-20-234322.png](https://i.postimg.cc/RCHXjZh4/Screenshot-2024-12-20-234322.png)](https://postimg.cc/z3qCh5Tc)
-    - **Run the Application:** Run The Application From Main Method.
+
+       
+     - **Run the Application:** Run The Application From Main Method.
        *This will start the backend on http://localhost:8080(default port No).*
     - **Accessing the API:**
        *Postman or Swagger:* You can use Postman or CURL to make API requests for the available endpoints.
-#
+
        Thank you!
        Developed by: Velishala Akhil (MovieTicketBookingManagementApplication_RestAPI)
 
