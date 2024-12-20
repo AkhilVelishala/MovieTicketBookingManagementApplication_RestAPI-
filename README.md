@@ -191,7 +191,8 @@
        
      - **Run the Application:** Run The Application From Main Method.
        *This will start the backend on http://localhost:8080(default port No).*
-    - **Accessing the API:**
+       
+     - **Accessing the API:**
        *Postman or Swagger:* You can use Postman or CURL to make API requests for the available endpoints.
 
        Thank you!
