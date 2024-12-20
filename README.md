@@ -7,4 +7,4 @@ Modules
 4.ScreenModule
 5.SeatModule
 6.TicketModule
-![Uploading Screenshot 2024-12-19 124542.png…]()
+[![Screenshot-2024-12-19-124542.png](https://i.postimg.cc/Kjs69CC8/Screenshot-2024-12-19-124542.png)](https://postimg.cc/m1Cpkpbv)
