@@ -1,6 +1,6 @@
-###  MovieTicketBookingManagementApplication_RestAPI
+# MovieTicketBookingManagementApplication_RestAPI
 
- # **Modules**
+###  **Modules**
 - UserModule
 - TheaterModule
 - MovieModule
