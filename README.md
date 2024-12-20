@@ -1,6 +1,6 @@
 # MovieTicketBookingManagementApplication_RestAPI
 
-# Modules
+**bold**  Modules
 1.UserModule
 2.TheaterModule
 3.MovieModule
