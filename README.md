@@ -15,7 +15,17 @@
  -  *Admin:* A user with elevated privileges who can manage users, view logs, and perform administrative tasks.
  -  *User:* A regular user who can access their profile, make bookings, etc.
 
-   ***Endpoints:***
+  ***Attributes:***
+
+   - ***id:*** A unique identifier for the movie.
+   - ***name:*** The title of the movie.
+   - ***description:*** A brief description of the movie’s plot or storyline.
+   - ***genre:*** The genre of the movie (e.g., Action, Comedy, Drama, etc.).
+   - ***duration:*** The total duration of the movie in minutes.
+   - ***releaseDate:*** The release date of the movie.
+   - ***rating:*** The movie’s average rating (e.g., from 1 to 10, or as a rating system).
+   - 
+ [![Screenshot-2024-12-20-183136.png](https://i.postimg.cc/yNth2mFV/Screenshot-2024-12-20-183136.png)](https://postimg.cc/06GJwJW3)
 
    #
    ### **TheaterModule**
