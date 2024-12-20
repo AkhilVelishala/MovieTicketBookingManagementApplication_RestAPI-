@@ -17,7 +17,7 @@
 - TicketModule
 
 [![Screenshot-2024-12-20-171004.png](https://i.postimg.cc/kGKnbJ2d/Screenshot-2024-12-20-171004.png)](https://postimg.cc/Lg4KdMky)
-#  
+
  ### **UserModule**
  -  **User :** Represents a user in the system. The user can have different roles (Admin or User).
  -  *Admin:* A user with elevated privileges who can manage users, view logs, and perform administrative tasks.
@@ -34,7 +34,7 @@
      
  [![Screenshot-2024-12-20-183136.png](https://i.postimg.cc/yNth2mFV/Screenshot-2024-12-20-183136.png)](https://postimg.cc/06GJwJW3)
 
-   #
+
    ### **TheaterModule**
    - The TheaterModule is responsible for managing theaters in the Movie Ticket Booking Management System. It provides endpoints for creating, retrieving, updating, and deleting theaters. Admin users have the ability to modify theater information, while regular users can view theater details.
 
@@ -50,7 +50,7 @@
   [![Screenshot-2024-12-19-122215.png](https://i.postimg.cc/s2bs57mb/Screenshot-2024-12-19-122215.png)](https://postimg.cc/jW6pbWGh)
   
 
-   #
+
    ### **MovieModule**
    - The MovieModule is a vital component of the Movie Ticket Booking Management System that handles all operations related to movies. This module provides functionality for adding, retrieving, updating, and deleting movies from the system. It allows admins to manage movie data, while users can view a list of available movies and access detailed information about each movie.
      
@@ -69,7 +69,7 @@
 
    [![Screenshot-2024-12-19-122254.png](https://i.postimg.cc/qM8SkRRc/Screenshot-2024-12-19-122254.png)](https://postimg.cc/nCh02nqM)
 
-   #
+
    ### **ScreenModule**
    - The ScreenModule is a key part of the Movie Ticket Booking Management System that handles the management of screens within theaters. It allows admins to add, update, retrieve, and delete screens in the system. Each screen is associated with a theater and has specific attributes like capacity and name.
      
@@ -85,7 +85,7 @@
 
    [![Screenshot-2024-12-20-220924.png](https://i.postimg.cc/wBWLz9z6/Screenshot-2024-12-20-220924.png)](https://postimg.cc/TyDpqMhS)
 
- #
+
    ### **SeatModule**
    - The SeatModule is an essential part of the Movie Ticket Booking Management System that handles the management of seats in theater screens. It ensures proper seat allocation, availability tracking, and categorization of seats into types such as Regular and Premium. Admin users can update seat availability, while all users can view available seats for a specific screen.
 
@@ -103,7 +103,7 @@
 
    [![Screenshot-2024-12-20-221849.png](https://i.postimg.cc/SRy1Jy5J/Screenshot-2024-12-20-221849.png)](https://postimg.cc/9RnYkjch)
 
-   #
+
    ### **TicketModule**
    - The TicketModule manages ticket booking, retrieval, and cancellation operations within the Movie Ticket Booking Management System. It enables users to book tickets for a movie, retrieve their ticket details, and cancel bookings. Admins can access a complete booking history for system oversight.
 
@@ -140,7 +140,7 @@
      
     
      [![Screenshot-2024-12-19-122724.png](https://i.postimg.cc/vZh22QbQ/Screenshot-2024-12-19-122724.png)](https://postimg.cc/PCLMPnCc)
-     #
+  
      ##  Technologies Used
      
    - ***Java::*** The core programming language used for backend logic.
@@ -151,14 +151,14 @@
    - ***MySQL:*** Relational database for storing application data.
    - ***REST API:*** For communication between the client and server.
 
-     #
+     
      ##  Tools and Platforms
      
    - ***Postman::*** For API testing.
    - ***Maven:*** For project build and dependency management.
    - ***Spring Tool Suite (STS):***  IDE for Spring-based development.
 
-     #
+  
      ##  Additional Features
      
    - ***Swagger:*** API documentation and testing.
