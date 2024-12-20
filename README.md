@@ -17,14 +17,13 @@
 
   ***Attributes:***
 
-   - ***id:*** A unique identifier for the movie.
-   - ***name:*** The title of the movie.
-   - ***description:*** A brief description of the movie’s plot or storyline.
-   - ***genre:*** The genre of the movie (e.g., Action, Comedy, Drama, etc.).
-   - ***duration:*** The total duration of the movie in minutes.
-   - ***releaseDate:*** The release date of the movie.
-   - ***rating:*** The movie’s average rating (e.g., from 1 to 10, or as a rating system).
-   - 
+   - ***id:***  Unique identifier for the user.
+   - ***name:*** The name of the user.
+   - ***email:*** The email address of the user.
+   - ***genre:*** The user’s password.
+   - ***phoneNumber:*** The user's contact number.
+   - ***releaseDate:*** Defines the user’s role. Can be either Admin or User.
+     
  [![Screenshot-2024-12-20-183136.png](https://i.postimg.cc/yNth2mFV/Screenshot-2024-12-20-183136.png)](https://postimg.cc/06GJwJW3)
 
    #
