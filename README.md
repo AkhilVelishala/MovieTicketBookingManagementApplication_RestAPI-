@@ -55,6 +55,9 @@
    - ***duration:*** The total duration of the movie in minutes.
    - ***releaseDate:*** The release date of the movie.
    - ***rating:*** The movie’s average rating (e.g., from 1 to 10, or as a rating system).
+     [![Screenshot-2024-12-20-220452.png](https://i.postimg.cc/t4TTFWPz/Screenshot-2024-12-20-220452.png)](https://postimg.cc/D89nTWxW)
+     
+***Endpoints:***
 
    [![Screenshot-2024-12-19-122254.png](https://i.postimg.cc/qM8SkRRc/Screenshot-2024-12-19-122254.png)](https://postimg.cc/nCh02nqM)
 
