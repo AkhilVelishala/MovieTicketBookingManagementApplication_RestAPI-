@@ -23,9 +23,9 @@
 
    ***Attributes:***
 
-   - *id:* Unique identifier for the theater.
-   - *name*: Name of the theater.
-   - *location:* Physical location of the theater.
+   - ***id:*** Unique identifier for the theater.
+   - ***name:*** Name of the theater.
+   - ***location:*** Physical location of the theater.
    
 
 
