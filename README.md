@@ -124,12 +124,12 @@
      [![Screenshot-2024-12-20-223539.png](https://i.postimg.cc/s2tNRMWr/Screenshot-2024-12-20-223539.png)](https://postimg.cc/1grHG5MC)
      
 
-     ***Endpoint:*** (http://localhost:2020/Ticket/get?id=11)
+      ***Endpoint:*** (http://localhost:2020/Ticket/get?id=11)
          
-         [![Screenshot-2024-12-19-122551.png](https://i.postimg.cc/13qKxsGx/Screenshot-2024-12-19-122551.png)](https://postimg.cc/cvd3wqkT)
+      [![Screenshot-2024-12-19-122551.png](https://i.postimg.cc/13qKxsGx/Screenshot-2024-12-19-122551.png)](https://postimg.cc/cvd3wqkT)
 
      ***Endpoint:*** (http://localhost:2020/Ticket/getAll)
      
     
-         [![Screenshot-2024-12-19-122724.png](https://i.postimg.cc/vZh22QbQ/Screenshot-2024-12-19-122724.png)](https://postimg.cc/PCLMPnCc)
+     [![Screenshot-2024-12-19-122724.png](https://i.postimg.cc/vZh22QbQ/Screenshot-2024-12-19-122724.png)](https://postimg.cc/PCLMPnCc)
 
