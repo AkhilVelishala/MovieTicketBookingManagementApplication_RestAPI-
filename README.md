@@ -20,9 +20,9 @@
    - ***id:***  Unique identifier for the user.
    - ***name:*** The name of the user.
    - ***email:*** The email address of the user.
-   - ***genre:*** The user’s password.
+   - ***password:*** The user’s password.
    - ***phoneNumber:*** The user's contact number.
-   - ***releaseDate:*** Defines the user’s role. Can be either Admin or User.
+   - ***User Role:*** Defines the user’s role. Can be either Admin or User.
      
  [![Screenshot-2024-12-20-183136.png](https://i.postimg.cc/yNth2mFV/Screenshot-2024-12-20-183136.png)](https://postimg.cc/06GJwJW3)
 
