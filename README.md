@@ -1,5 +1,7 @@
  # MovieTicketBookingManagementApplication_RestAPI
-
+  The MovieTicketBookingSystem is a demo project developed to simulate a real-time movie ticket booking experience. This system provides users with the ability to 
+  browse movie listings, view available theaters, select seats, and make bookings
+#
 ##  Modules
 - UserModule
 - TheaterModule
@@ -132,4 +134,31 @@
      
     
      [![Screenshot-2024-12-19-122724.png](https://i.postimg.cc/vZh22QbQ/Screenshot-2024-12-19-122724.png)](https://postimg.cc/PCLMPnCc)
+     #
+     ##  Technologies Used
+     
+   - ***Java::*** The core programming language used for backend logic.
+   - ***Spring Boot:*** Java framework for building REST APIs and handling backend services.
+   - ***Spring Security with JDBC Authentication:*** For secure authentication and authorization using database credentials.
+   - ***Spring Data JPA:*** Simplifies data access by providing an abstraction over JPA implementations.
+   - ***Hibernate:*** ORM (Object-Relational Mapping) framework used as the JPA implementation.
+   - ***MySQL:*** Relational database for storing application data.
+   - ***REST API:*** For communication between the client and server.
+
+     #
+     ##  Tools and Platforms
+     
+   - ***Postman::*** For API testing.
+   - ***Maven:*** For project build and dependency management.
+   - ***Spring Tool Suite (STS):***  IDE for Spring-based development.
+
+     #
+     ##  Additional Features
+     
+   - ***Swagger:*** API documentation and testing.
+   - ***Lombok:*** Reduces boilerplate code in Java.
+   - ***JDBC Authentication:***  Implements authentication using credentials stored in the database.
+
+  
+     
 
