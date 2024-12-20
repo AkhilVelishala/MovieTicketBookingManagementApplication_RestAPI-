@@ -35,8 +35,12 @@
      
    ***Attributes:***
 
-   - ***id:*** Unique identifier for the theater.
-   - ***name:*** Name of the theater.
-   - ***location:*** Physical location of the theater.
+   - ***id:*** A unique identifier for the movie.
+   - ***name:*** The title of the movie.
+   - ***description:*** A brief description of the movie’s plot or storyline.
+   - ***genre:*** The genre of the movie (e.g., Action, Comedy, Drama, etc.).
+   - ***duration:*** The total duration of the movie in minutes.
+   - ***releaseDate:*** The release date of the movie.
+   - ***rating:*** The movie’s average rating (e.g., from 1 to 10, or as a rating system).
 
 
