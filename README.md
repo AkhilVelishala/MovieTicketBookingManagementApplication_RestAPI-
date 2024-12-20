@@ -177,7 +177,7 @@
 
      ## Setup Instructions
       **To set up and run the MovieTicketBookingSystem locally, follow these steps:**
-     1.clone the repository : git clone https://github.com/yourusername/MovieTicketBookingManagementApplication_RestAPI-.git
+     1.clone the repository : git clone https://github.com/yourusername/MovieTicketBookingManagementApplication_RestAPI-
 
   
      
