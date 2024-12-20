@@ -29,9 +29,14 @@
 
      [![Screenshot-2024-12-19-122215.png](https://i.postimg.cc/s2bs57mb/Screenshot-2024-12-19-122215.png)](https://postimg.cc/jW6pbWGh)
 
-     #
-### **MovieModule**
-      - The MovieModule is a vital component of the Movie Ticket Booking Management System that handles all operations related to movies. This module provides functionality for adding, retrieving, updating, and deleting movies from the system. It allows admins to manage movie data, while users can view a list of available movies and access detailed information about each movie.
-   
+   #
+   ### **TheaterModule**
+   - The TheaterModule is responsible for managing theaters in the Movie Ticket Booking Management System. It provides endpoints for creating, retrieving, updating, and deleting theaters. Admin users have the ability to modify theater information, while regular users can view theater details.
+
+   ***Attributes:***
+
+   - ***id:*** Unique identifier for the theater.
+   - ***name:*** Name of the theater.
+   - ***location:*** Physical location of the theater.
 
 
