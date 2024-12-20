@@ -19,5 +19,6 @@
 
    #
    ### **TheaterModule**
+   - The TheaterModule is responsible for managing theaters in the Movie Ticket Booking Management System. It provides endpoints for creating, retrieving, updating, and deleting theaters. Admin users have the ability to modify theater information, while regular users can view theater details.
 
 
