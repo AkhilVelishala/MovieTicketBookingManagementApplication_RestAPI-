@@ -95,3 +95,31 @@
 
    [![Screenshot-2024-12-20-221849.png](https://i.postimg.cc/SRy1Jy5J/Screenshot-2024-12-20-221849.png)](https://postimg.cc/9RnYkjch)
 
+   #
+   ### **SeatModule**
+   - The TicketModule manages ticket booking, retrieval, and cancellation operations within the Movie Ticket Booking Management System. It enables users to book tickets for a movie, retrieve their ticket details, and cancel bookings. Admins can access a complete booking history for system oversight.
+
+        ***Attributes:***
+
+   - ***id:*** Unique identifier for the ticket.
+   - ***userId:*** ID of the user who booked the ticket.
+   - ***movieId:*** ID of the movie for which the ticket was booked.
+   - ***theaterId:*** ID of the theater where the movie is being shown.
+   - ***screenId:*** ID of the screen where the movie is being displayed.
+   - ***seatIds:*** for the seat booked. This is used when a single seat is booked.
+   - ***seatSelections:*** A list of detailed information about each seat booked as part of the ticket. This is used for multiple-seat bookings.
+
+   ***SeatSelection Attributes***
+     
+   - ***row:*** The row where the seat is located (e.g., "A", "B").
+   - ***number:*** The number of the seat within the row.
+   - ***type:*** The type of the seat, indicating its classification (e.g., regular or premium).
+   - ***status:*** The current status of the seat, indicating whether it is booked or cancelled.
+   - ***price:*** The price of the seat based on its type (e.g., regular or premium).
+
+     [![Screenshot-2024-12-20-223518.png](https://i.postimg.cc/wTVck1TB/Screenshot-2024-12-20-223518.png)](https://postimg.cc/tYsxqC60)
+
+       ***Endpoints:***
+     
+     [![Screenshot-2024-12-20-223539.png](https://i.postimg.cc/s2tNRMWr/Screenshot-2024-12-20-223539.png)](https://postimg.cc/1grHG5MC)
+
