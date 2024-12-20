@@ -70,7 +70,28 @@
    - ***id:*** Unique identifier for the screen.
    - ***name:*** Name of the screen (e.g., "Screen 1", "IMAX").
    - ***capacity:*** The seating capacity of the screen.
+     
+     [![Screenshot-2024-12-20-220858.png](https://i.postimg.cc/66MLKL9r/Screenshot-2024-12-20-220858.png)](https://postimg.cc/rzttC4Rs)
    
-   
+   ***Endpoints:***
 
+   [![Screenshot-2024-12-20-220924.png](https://i.postimg.cc/wBWLz9z6/Screenshot-2024-12-20-220924.png)](https://postimg.cc/TyDpqMhS)
+
+ #
+   ### **SeatModule**
+   - The SeatModule is an essential part of the Movie Ticket Booking Management System that handles the management of seats in theater screens. It ensures proper seat allocation, availability tracking, and categorization of seats into types such as Regular and Premium. Admin users can update seat availability, while all users can view available seats for a specific screen.
+
+        ***Attributes:***
+
+   - ***id:*** Unique identifier for the seat.
+   - ***row:*** The row where the seat is located (e.g., "A", "B").
+   - ***number:*** The seat number within the row.
+   - ***type:*** Specifies the type of seat: Regular or Premium.
+   - ***availability:*** Indicates whether the seat is available (true) or booked (false).
+     
+ [![Screenshot-2024-12-20-221829.png](https://i.postimg.cc/rwdWGB2s/Screenshot-2024-12-20-221829.png)](https://postimg.cc/nXJCpwzf)
+
+   ***Endpoints:***
+
+   [![Screenshot-2024-12-20-221849.png](https://i.postimg.cc/SRy1Jy5J/Screenshot-2024-12-20-221849.png)](https://postimg.cc/9RnYkjch)
 
